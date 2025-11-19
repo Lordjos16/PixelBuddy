@@ -1,0 +1,7 @@
+streamlit
+psutil
+requests
+beautifulsoup4
+gputil
+html5lib
+lxml
