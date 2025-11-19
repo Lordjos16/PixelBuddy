@@ -5,7 +5,7 @@ By automatically analyzing your system’s hardware and comparing it with Steam�
 
 ---
 
-![PixelBuddy Screenshot](logp.svg)
+![PixelBuddy Logo](PixelBuddy/logp.svg)
 
 ---
 
@@ -20,7 +20,7 @@ PixelBuddy answers all of these instantly—no guesswork, no searching through s
 
 ---
 
-![PixelBuddy Screenshot](ss.png)
+![PixelBuddy Screenshot](PixelBuddy/ss.png)
 
 ---
 
@@ -64,7 +64,7 @@ It also displays a clean system requirement table extracted from Steam.
 
 ---
 
-![PixelBuddy Screenshot](ss1.png)
+![PixelBuddy Screenshot](PixelBuddy/ss1.png)
 
 ---
 
